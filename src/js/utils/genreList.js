@@ -1,4 +1,3 @@
-
 export default {
     28: 'Action',
     12: 'Adventure',
